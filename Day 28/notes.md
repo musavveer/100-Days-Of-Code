@@ -1,0 +1,1 @@
+Completed few topics of JavaScript in freeCodeCamp.
